@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    min-height: 100vh;
+    background-color: #0D192C;
+  }
+  
+  .charcho {
+    background-color: #15263f;
+    width: 350px;
+    /* height: 596px;  */
+    border-radius: 15px;
+  
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 24px;
+    padding-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sur1 {
+    border-radius: 8px;
+    width: 100%;
+  }
+  
+  h1 {
+    color: white;
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+  }
+  
+  p {
+    color: #8bacd9;
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+  }
+  
